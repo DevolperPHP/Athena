@@ -5,7 +5,7 @@ int main()
   double num1, num2, num3, num4, num5;
   double sum, average;
 
-  cout << "Enter three Numbers :: ";
+  cout << "Enter five Numbers :: ";
   cin >> num1 >> num2 >> num3 >> num4 >> num5;
 
   sum = num1 + num2 + num3 + num4 + num5;
