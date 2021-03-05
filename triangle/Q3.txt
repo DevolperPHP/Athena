@@ -1,0 +1,5 @@
+Step 1 - Start the program
+Step 2 - let the user enter the height and base length of traingle
+Step 3 - Divide the length of the base by 2
+Step 4 - Multiply the base value by the height
+Step 5 - Display the result
